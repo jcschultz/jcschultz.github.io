@@ -60,6 +60,9 @@ p {
 #twitter {
 	background-image: url(../img/twitter.png);
 }
+#github {
+	background-image: url(../img/github.png);
+}
 
 @media (min-width: 600px) {
 	#john-container {
